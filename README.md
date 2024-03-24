@@ -13,6 +13,9 @@
 - **언급 빈도 집계**: 수집된 데이터 내에서 대한민국 국가대표 선수들이 언급된 횟수를 계산합니다.
 - **데이터 시각화**: 언급 빈도 데이터를 파이 차트와 같은 시각화 도구를 사용하여 표현합니다.
 
+## 데이터 저장 위치
+모든 수집된 데이터와 결과물은 프로젝트 폴더 내의 data_match_info폴더 내에 png 형식으로 저장됩니다.
+
 ## 예시
 데이터 시각화
 ![alt text](data_match_info/match_info_29.png)
@@ -20,7 +23,7 @@
 ## 시작하기
 
 ### 필요 조건
-- Python 3.x 설치
+- Python 3.11 설치
 - 필요한 Python 라이브러리: `selenium`, `beautifulsoup4`, `pandas`, `numpy`, `matplotlib`, `konlpy`, `tensorflow`
 
 ### 설치 방법
