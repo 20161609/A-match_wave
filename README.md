@@ -1,4 +1,4 @@
-![alt text](images/icon.png)
+![image](https://github.com/20161609/A-match_wave/assets/92266688/d4385176-2854-4367-a0ac-23fded47282c)
 
 # 프로젝트 제목: Foolball-Frequency, Korea
 
